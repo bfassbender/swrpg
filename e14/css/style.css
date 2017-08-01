@@ -161,7 +161,7 @@ body {
     opacity: 1;
   }
   100% {
-    top: -60%;
+    top: -50%;
     opacity: 0;
   }
 }
@@ -174,7 +174,7 @@ body {
     opacity: 1;
   }
   100% {
-    top: -60%;
+    top: -50%;
     opacity: 0;
   }
 }
